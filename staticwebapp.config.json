@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://www.ifood.com.br/delivery/guarapuava-pr/compre-mais--mega-loja-guarapuava---loja-21---boqueirao-boqueirao/aa1d96ec-bb65-4104-84fb-39e4cdd77537",
+      "statusCode": 301
+    }
+  ]
+}
